@@ -1,6 +1,6 @@
 # Finovo
 
-Finovo is an Decenterlized Finance(DeFi) protocol that will help you to lend, borrow money and also use this in your dapp.
+Finovo is an Decenterlized Finance(DeFi) protocol that will help you to lend, borrow money and also use this in your dApp.
 
 ## Protocols
 
